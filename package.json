@@ -1,0 +1,27 @@
+{
+  "name": "proyect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelvele/proyecto_con_node.git"
+  },
+  "author": "muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelvele/proyecto_con_node/issues"
+  },
+  "homepage": "https://github.com/miguelvele/proyecto_con_node#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
